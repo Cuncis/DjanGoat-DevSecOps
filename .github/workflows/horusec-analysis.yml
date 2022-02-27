@@ -1,4 +1,6 @@
-on: [push]
+name: Horusec Analysis
+
+on: push
 
 jobs:
   checking-code:
